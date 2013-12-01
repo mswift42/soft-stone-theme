@@ -1,5 +1,5 @@
 ;; Author: Martin Haesler
-;;; soft-stone-theme.el --- Dark charcoal theme with soft colors
+;;; soft-stone-theme.el --- Emacs 24 theme with a light background.
 ;; URL: http://github.com/mswift42/soft-stone-theme
 ;; Version: 0.2
 
