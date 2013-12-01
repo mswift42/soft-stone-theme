@@ -3,7 +3,7 @@
 ;; URL: http://github.com/mswift42/soft-stone-theme
 ;; Version: 0.2
 
-;; dark theme with a charcoal bg and soft colors
+;; 
 ;; Copyright (C) 2013 , Martin Haesler
 
 ;; This program is free software: you can redistribute it and/or modify
@@ -26,34 +26,34 @@
 (custom-theme-set-faces
   'soft-stone
         '(default ((t (:background "#d7cdb8" :foreground "#000000"))))
-        '(font-lock-builtin-face ((t (:foreground "#5c0001"))))
+        '(font-lock-builtin-face ((t (:foreground "#9e0045"))))
         '(region ((t (:background "#242424" :foreground "#faf4c6"))))
         '(highlight ((t (:foreground "#d5dd83" :background "#191919"))))
-	'(hl-line ((t (:background "#ffb6c1"))))
-	'(fringe ((t (:background "#d5cdb8" :foreground "#8aa234"))))
+	'(hl-line ((t (:background "#c1b8a5"))))
+	'(fringe ((t (:background "#d5cdb8" :foreground "#434343"))))
 	'(cursor ((t (:background "#626262"))))
         '(show-paren-match-face ((t (:background "#f03f3f"))))
         '(isearch ((t (:bold t :foreground "#f03f3f" :background "#e2e2e5"))))
-        '(mode-line ((t (:box (:line-width 1 :color nil :style released-button) :bold t :foreground "#343434" :background "#d5cdb8"))))
+        '(mode-line ((t (:box (:line-width 1 :color nil :style released-button) :bold t :foreground "#343434" :background "#dbd2bf"))))
         '(mode-line-inactive ((t (:box (:line-width 1 :color nil :style released-button) :foreground "#808080" :background "#d7cdb8"))))
         '(mode-line-buffer-id ((t (:bold t :foreground "#121212" :background nil))))
 	'(mode-line-highlight ((t (:background "#808080"))))
 	'(vertical-border ((t (:foreground "#232323"))))
         '(minibuffer-prompt ((t (:bold t :foreground "#121212"))))
         '(default-italic ((t (:italic t))))
-	'(font-lock-comment-face ((t (:foreground "#626262"))))
+	'(font-lock-comment-face ((t (:foreground "#6b665c"))))
 	'(font-lock-negation-char-face ((t (:foreground "#f03f3f"))))
-	'(font-lock-reference-face ((t (:foreground "#d08689"))))
-	'(font-lock-constant-face ((t (:foreground "#007a2c"))))
+	'(font-lock-reference-face ((t (:foreground "#b7c2d7"))))
+	'(font-lock-constant-face ((t (:foreground "#374014"))))
         '(font-lock-doc-face ((t (:foreground "#373737"))))
-        '(font-lock-function-name-face ((t (:foreground "#00015c"))))
-        '(font-lock-keyword-face ((t (:bold t :foreground "#013d00"))))
+        '(font-lock-function-name-face ((t (:foreground "#4b004d"))))
+        '(font-lock-keyword-face ((t (:bold t :foreground "#5c0030"))))
 	'(font-lock-reference-face ((t (:bold t :foreground "#5c0020"))))
-        '(font-lock-string-face ((t (:foreground "#00013d"))))
-        '(font-lock-type-face ((t (:foreground "#5c0020"))))
-        '(font-lock-variable-name-face ((t (:foreground "#8885b2"))))
+        '(font-lock-string-face ((t (:foreground "#00025c"))))
+        '(font-lock-type-face ((t (:foreground "#025c00"))))
+        '(font-lock-variable-name-face ((t (:foreground "#45511a"))))
         '(font-lock-warning-face ((t (:foreground "#ffffff" :background "#ff6523"))))
-	'(link ((t (:foreground "#ffc01a"))))
+	'(link ((t (:foreground "#424140"))))
 	'(org-hide ((t (:foreground "#708090"))))
         '(org-level-1 ((t (:bold t :foreground "#54686d" :height 1.1))))
         '(org-level-2 ((t (:bold nil :foreground "#7e8aa2"))))
@@ -82,7 +82,7 @@
 	'(font-latex-match-variable-keywords ((t (:foreground "#708090"))))
 	'(ido-only-match ((t (:foreground "#f03f3f"))))
 	'(org-sexp-date ((t (:foreground "#808080"))))
-	'(ido-first-match ((t (:foreground "#8aa234"))))
+	'(ido-first-match ((t (:foreground "#45511a"))))
 	'(gnus-header-content ((t (:foreground "#e3e3e3"))))
 	'(gnus-header-from ((t (:foreground "#54686d"))))
 	'(gnus-header-name ((t (:foreground "#5d90cd"))))
