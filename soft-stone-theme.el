@@ -1,7 +1,7 @@
 ;; Author: Martin Haesler
 ;;; soft-stone-theme.el --- Emacs 24 theme with a light background.
 ;; URL: http://github.com/mswift42/soft-stone-theme
-;; Version: 0.2
+;; Version: 0.1
 
 ;; 
 ;; Copyright (C) 2013 , Martin Haesler
@@ -22,7 +22,7 @@
 ;; This file is not part of Emacs.
 
 (deftheme soft-stone)
-
+"hallo"
 (custom-theme-set-faces
   'soft-stone
         '(default ((t (:background "#dbd2bf" :foreground "#000000"))))
@@ -49,7 +49,7 @@
         '(font-lock-function-name-face ((t (:foreground "#4b004d"))))
         '(font-lock-keyword-face ((t (:bold t :foreground "#5c0030"))))
 	'(font-lock-reference-face ((t (:bold t :foreground "#5c0020"))))
-        '(font-lock-string-face ((t (:foreground "#00025c"))))
+        '(font-lock-string-face ((t (:foreground "#4f3277"))))
         '(font-lock-type-face ((t (:foreground "#025c00"))))
         '(font-lock-variable-name-face ((t (:foreground "#45511a"))))
         '(font-lock-warning-face ((t (:foreground "#ffffff" :background "#ff6523"))))
