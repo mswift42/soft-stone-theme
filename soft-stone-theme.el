@@ -53,7 +53,7 @@
         '(font-lock-type-face ((t (:foreground "#025c00"))))
         '(font-lock-variable-name-face ((t (:foreground "#45511a"))))
         '(font-lock-warning-face ((t (:foreground "#ffffff" :background "#ff6523"))))
-	'(link ((t (:foreground "#424140"))))
+	'(link ((t (:foreground "#f03f3f" :underline t))))
 	'(org-code ((t (:foreground "#191919"))))
 	'(org-hide ((t (:foreground "#686868"))))
         '(org-level-1 ((t (:bold t :foreground "#121212" :height 1.1))))
