@@ -1,5 +1,5 @@
-;;; soft-stone-theme.el --- Dark charcoal theme with soft colors
 ;; Author: Martin Haesler
+;;; soft-stone-theme.el --- Dark charcoal theme with soft colors
 ;; URL: http://github.com/mswift42/soft-stone-theme
 ;; Version: 0.2
 
@@ -84,7 +84,7 @@
 	'(font-latex-match-variable-keywords ((t (:foreground "#708090"))))
 	'(ido-only-match ((t (:foreground "#ff0000"))))
 	'(org-sexp-date ((t (:foreground "#808080"))))
-	'(ido-first-match ((t (:foreground "#45511a"))))
+	'(ido-first-match ((t (:foreground "#ff0000" :bold t))))
 	'(gnus-header-content ((t (:foreground "#e3e3e3"))))
 	'(gnus-header-from ((t (:foreground "#54686d"))))
 	'(gnus-header-name ((t (:foreground "#5d90cd"))))
@@ -103,6 +103,7 @@
 	'(powerline-active2 ((t (:foreground "#000000" :background "#aca49f"))))
 	'(powerline-inactive1 ((t (:foreground "#929292" :background "#d7cdb8"))))
 	'(powerline-inactive2 ((t (:foreground "#929292" :background "#aca49f"))))
+	'(ac-completion-face ((t (:underline t :foreground "#5c0020"))))
 	'(slime-repl-inputed-output-face ((t (:foreground "#f03f3f")))))
 
 ;;;###autoload
