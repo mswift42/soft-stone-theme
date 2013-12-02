@@ -49,7 +49,7 @@
         '(font-lock-function-name-face ((t (:foreground "#4b004d"))))
         '(font-lock-keyword-face ((t (:bold t :foreground "#5c0030"))))
 	'(font-lock-reference-face ((t (:bold t :foreground "#5c0020"))))
-        '(font-lock-string-face ((t (:foreground "#4f3277"))))
+        '(font-lock-string-face ((t (:foreground "#3c414c"))))
         '(font-lock-type-face ((t (:foreground "#025c00"))))
         '(font-lock-variable-name-face ((t (:foreground "#45511a"))))
         '(font-lock-warning-face ((t (:foreground "#ffffff" :background "#ff6523"))))
