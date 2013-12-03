@@ -40,7 +40,7 @@
 	'(vertical-border ((t (:foreground "#232323"))))
         '(minibuffer-prompt ((t (:bold t :foreground "#121212"))))
         '(default-italic ((t (:italic t))))
-	'(font-lock-comment-face ((t (:foreground "#6b665c"))))
+	'(font-lock-comment-face ((t (:foreground "#373737"))))
 	'(font-lock-negation-char-face ((t (:foreground "#ff6523"))))
 	'(font-lock-reference-face ((t (:foreground "#b7c2d7"))))
 	'(font-lock-constant-face ((t (:foreground "#374014"))))
