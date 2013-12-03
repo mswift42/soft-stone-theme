@@ -2,7 +2,7 @@
 ;; Author: Martin Haesler
 ;; URL: http://github.com/mswift42/soft-stone-theme
 ;; Version: 0.1
-
+;; Package-Requires: ((emacs "24"))
 ;; Emacs theme with a light background.
 ;; Copyright (C) 2013 , Martin Haesler
 
