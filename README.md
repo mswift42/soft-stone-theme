@@ -18,7 +18,7 @@ add the following lines to your init.el (only if you have not done so already):
 
 
 
-This will add the gnu, marmalade and melpa repos to your emacs setup.
+This will add the gnu and melpa repos to your emacs setup.
 
 To install the theme:
 
