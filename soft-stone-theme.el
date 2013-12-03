@@ -22,15 +22,14 @@
 ;; This file is not part of Emacs.
 
 (deftheme soft-stone)
-"hallo"
 (custom-theme-set-faces
   'soft-stone
-        '(default ((t (:background "#dbd2bf" :foreground "#000000"))))
+        '(default ((t (:background "#e7e1d4" :foreground "#000000"))))
         '(font-lock-builtin-face ((t (:foreground "#9e0045"))))
         '(region ((t (:background "#242424" :foreground "#faf4c6"))))
         '(highlight ((t (:foreground "#c1b8a5" :background "#191919"))))
 	'(hl-line ((t (:background "#c1b8a5"))))
-	'(fringe ((t (:background "#d5cdb8" :foreground "#434343"))))
+	'(fringe ((t (:background "#e3dccd" :foreground "#434343"))))
 	'(cursor ((t (:background "#626262"))))
         '(show-paren-match-face ((t (:background "#f03f3f"))))
         '(isearch ((t (:bold t :foreground "#f03f3f" :background "#e2e2e5"))))
@@ -49,7 +48,7 @@
         '(font-lock-function-name-face ((t (:foreground "#4b004d"))))
         '(font-lock-keyword-face ((t (:bold t :foreground "#5c0030"))))
 	'(font-lock-reference-face ((t (:bold t :foreground "#5c0020"))))
-        '(font-lock-string-face ((t (:foreground "#3c414c"))))
+        '(font-lock-string-face ((t (:foreground "#253952"))))
         '(font-lock-type-face ((t (:foreground "#025c00"))))
         '(font-lock-variable-name-face ((t (:foreground "#45511a"))))
         '(font-lock-warning-face ((t (:foreground "#ffffff" :background "#ff6523"))))
@@ -84,7 +83,7 @@
 	'(font-latex-match-variable-keywords ((t (:foreground "#708090"))))
 	'(ido-only-match ((t (:foreground "#ff0000"))))
 	'(org-sexp-date ((t (:foreground "#808080"))))
-	'(ido-first-match ((t (:foreground "#ff0000" :bold t))))
+	'(ido-first-match ((t (:foreground "#494d56" :bold t))))
 	'(gnus-header-content ((t (:foreground "#e3e3e3"))))
 	'(gnus-header-from ((t (:foreground "#54686d"))))
 	'(gnus-header-name ((t (:foreground "#5d90cd"))))
