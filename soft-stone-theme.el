@@ -87,7 +87,7 @@
 	'(gnus-header-from ((t (:foreground "#54686d"))))
 	'(gnus-header-name ((t (:foreground "#5d90cd"))))
 	'(gnus-header-subject ((t (:foreground "#b998df"))))
-	'(magit-item-highlight ((t (:background "#c1b8a5"))))
+	'(magit-item-highlight ((t (:background "#cfcabe"))))
 	'(mu4e-view-url-number-face ((t (:foreground "#af4f4b"))))
 	'(mu4e-cited-1-face ((t (:foreground "#a2a1a0"))))
 	'(mu4e-cited-7-face ((t (:foreground "#b2b1b0"))))
