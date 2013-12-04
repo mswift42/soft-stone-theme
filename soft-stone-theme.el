@@ -24,12 +24,12 @@
 (deftheme soft-stone)
 (custom-theme-set-faces
   'soft-stone
-        '(default ((t (:background "#e7e1d4" :foreground "#000000"))))
+        '(default ((t (:background "#eeeae0" :foreground "#000000"))))
         '(font-lock-builtin-face ((t (:foreground "#9e0045"))))
         '(region ((t (:background "#242424" :foreground "#faf4c6"))))
         '(highlight ((t (:foreground "#c1b8a5" :background "#191919"))))
 	'(hl-line ((t (:background "#c1b8a5"))))
-	'(fringe ((t (:background "#e3dccd" :foreground "#434343"))))
+	'(fringe ((t (:background "#e7e1d4" :foreground "#434343"))))
 	'(cursor ((t (:background "#626262"))))
         '(show-paren-match-face ((t (:background "#f03f3f"))))
         '(isearch ((t (:bold t :foreground "#f03f3f" :background "#e2e2e5"))))
