@@ -102,7 +102,7 @@
 	'(powerline-inactive1 ((t (:foreground "#929292" :background "#d7cdb8"))))
 	'(powerline-inactive2 ((t (:foreground "#929292" :background "#aca49f"))))
 	'(ac-completion-face ((t (:underline t :foreground "#5c0020"))))
-	'(slime-repl-inputed-output-face ((t (:foreground "#f03f3f")))))
+	'(slime-repl-inputed-output-face ((t (:foreground "#bf1212")))))
 
 ;;;###autoload
 (when load-file-name
