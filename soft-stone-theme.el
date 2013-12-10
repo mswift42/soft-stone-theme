@@ -102,6 +102,8 @@
 	'(powerline-inactive1 ((t (:foreground "#929292" :background "#d7cdb8"))))
 	'(powerline-inactive2 ((t (:foreground "#929292" :background "#aca49f"))))
 	'(ac-completion-face ((t (:underline t :foreground "#5c0020"))))
+	'(info-quoted-name ((t (:foreground "#9e0045"))))
+	'(info-string ((t (:foreground "#0f126e"))))
 	'(slime-repl-inputed-output-face ((t (:foreground "#bf1212")))))
 
 ;;;###autoload
