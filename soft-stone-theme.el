@@ -104,6 +104,7 @@
 	'(ac-completion-face ((t (:underline t :foreground "#5c0020"))))
 	'(info-quoted-name ((t (:foreground "#9e0045"))))
 	'(info-string ((t (:foreground "#0f126e"))))
+	'(icompletep-determined ((t :foreground "#9e0045")))
 	'(slime-repl-inputed-output-face ((t (:foreground "#bf1212")))))
 
 ;;;###autoload
