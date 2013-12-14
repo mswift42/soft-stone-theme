@@ -96,6 +96,7 @@
 	'(js2-private-function-call ((t (:foreground "#45511a"))))
 	'(js2-jsdoc-html-tag-delimiter ((t (:foreground "#454545"))))
 	'(js2-jsdoc-html-tag-name ((t (:foreground "#525210"))))
+	'(js2-external-variable ((t (:foreground "#bf1212"  ))))
 	'(warning ((t (:foreground "#ff0000"))))
 	'(powerline-active1 ((t (:foreground "#000000" :background "#d7cdb8"))))
 	'(powerline-active2 ((t (:foreground "#000000" :background "#aca49f"))))
