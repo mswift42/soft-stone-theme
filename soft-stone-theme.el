@@ -107,6 +107,9 @@
 	'(info-quoted-name ((t (:foreground "#9e0045"))))
 	'(info-string ((t (:foreground "#0f126e"))))
 	'(icompletep-determined ((t :foreground "#9e0045")))
+        '(undo-tree-visualizer-register-face ((t :foreground "#525210")))
+        '(undo-tree-visualizer-default-face ((t :foreground "#323232")))
+        '(undo-tree-visualizer-unmodified-face ((t :foreground "#9e0045")))
 	'(slime-repl-inputed-output-face ((t (:foreground "#bf1212")))))
 
 ;;;###autoload
