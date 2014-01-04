@@ -110,7 +110,12 @@
         '(undo-tree-visualizer-register-face ((t :foreground "#525210")))
         '(undo-tree-visualizer-default-face ((t :foreground "#323232")))
         '(undo-tree-visualizer-unmodified-face ((t :foreground "#9e0045")))
-	'(slime-repl-inputed-output-face ((t (:foreground "#bf1212")))))
+	'(slime-repl-inputed-output-face ((t (:foreground "#bf1212"))))
+        '(magit-process-ok ((t :foreground "#005100")))
+        '(mu4e-cited-1-face ((t :foreground "#626160")))
+        '(mu4e-cited-7-face ((t :foreground "#828189")))
+        '(mu4e-header-marks-face ((t :foreground "#af4f4b")))
+        '(mu4e-view-url-number-face ((t :foreground "#525210"))))
 
 ;;;###autoload
 (when load-file-name
