@@ -76,6 +76,7 @@
 	'(org-scheduled ((t (:foreground "#4b004d"))))
 	'(org-ellipsis ((t (:foreground "#5c0020"))))
 	'(org-verbatim ((t (:foreground "#656565"))))
+        '(org-document-info-keyword ((t (:foreground "#4a00ff"))))
 	'(font-latex-bold-face ((t (:foreground "#cd8b00"))))
 	'(font-latex-italic-face ((t (:foreground "#808bed" :italic t))))
 	'(font-latex-string-face ((t (:foreground "#708090"))))
