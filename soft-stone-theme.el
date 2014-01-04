@@ -116,7 +116,8 @@
         '(mu4e-cited-1-face ((t :foreground "#626160")))
         '(mu4e-cited-7-face ((t :foreground "#828189")))
         '(mu4e-header-marks-face ((t :foreground "#af4f4b")))
-        '(mu4e-view-url-number-face ((t :foreground "#525210"))))
+        '(mu4e-view-url-number-face ((t :foreground "#525210")))
+        '(trailing-whitespace ((t :foreground nil :background "#d7cdb8"))))
 
 ;;;###autoload
 (when load-file-name
