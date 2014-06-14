@@ -117,7 +117,16 @@
         '(mu4e-cited-7-face ((t :foreground "#828189")))
         '(mu4e-header-marks-face ((t :foreground "#af4f4b")))
         '(mu4e-view-url-number-face ((t :foreground "#525210")))
-        '(trailing-whitespace ((t :foreground nil :background "#d7cdb8"))))
+        '(trailing-whitespace ((t :foreground nil :background "#d7cdb8")))
+        '(rainbow-delimiters-depth-1-face ((t :foreground "#000000")))
+        '(rainbow-delimiters-depth-2-face ((t :foreground "#ff5c00")))
+        '(rainbow-delimiters-depth-3-face ((t :foreground "#4a00ff")))
+        '(rainbow-delimiters-depth-4-face ((t :foreground "#1bc200")))
+        '(rainbow-delimiters-depth-5-face ((t :foreground "#808bed")))
+        '(rainbow-delimiters-depth-6-face ((t :foreground "#000000")))
+        '(rainbow-delimiters-depth-7-face ((t :foreground "#ff5c00")))
+        '(rainbow-delimiters-depth-8-face ((t :foreground "#4a00ff")))
+        '(rainbow-delimiters-unmatched-face ((t :foreground "red"))))
 
 ;;;###autoload
 (when load-file-name
